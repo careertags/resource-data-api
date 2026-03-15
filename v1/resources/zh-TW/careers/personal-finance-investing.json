@@ -1,0 +1,65 @@
+{
+  "version": "1.0.0",
+  "items": [
+    {
+      "title": "致富心態（全球暢銷千萬增訂版）：關於財富、貪婪與幸福的20堂理財課",
+      "type": "book",
+      "category": "personal-finance-investing",
+      "author": "摩根．豪瑟",
+      "platform": "www.books.com.tw",
+      "url": "https://www.books.com.tw/products/0011043967",
+      "thumbnail": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/104/39/0011043967.jpg&v=696f6989k&w=1146&h=600",
+      "tags": ["思維訓練", "心理學", "財務理財"]
+    },
+    {
+      "title": "投資最重要的事：一本股神巴菲特讀了兩遍的書",
+      "type": "book",
+      "category": "personal-finance-investing",
+      "author": "霍華．馬克斯",
+      "platform": "www.books.com.tw",
+      "url": "https://www.books.com.tw/products/0010744933?sloc=main",
+      "thumbnail": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/074/49/0010744933.jpg&v=58a6d0d2k&w=1146&h=600",
+      "tags": ["投資策略", "財務理財", "思維訓練"]
+    },
+    {
+      "title": "富爸爸，窮爸爸【25週年紀念版】",
+      "type": "book",
+      "category": "personal-finance-investing",
+      "author": "羅勃特．T．清崎",
+      "platform": "www.books.com.tw",
+      "url": "https://www.books.com.tw/products/0010935466?sloc=main",
+      "thumbnail": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/093/54/0010935466.jpg&v=631872bdk&w=1146&h=600",
+      "tags": ["財務理財", "投資策略", "個人成長"]
+    },
+    {
+      "title": "小狗錢錢：全球暢銷500萬冊！德國版《富爸爸，窮爸爸》（附贈全彩心智導圖拉頁）",
+      "type": "book",
+      "category": "personal-finance-investing",
+      "author": "博多‧薛弗",
+      "platform": "www.books.com.tw",
+      "url": "https://www.books.com.tw/products/0010952531?sloc=main",
+      "thumbnail": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/095/25/0010952531.jpg&v=64119ef0k&w=1146&h=600",
+      "tags": ["財務理財", "個人成長", "習慣養成"]
+    },
+    {
+      "title": "持續買進：資料科學家的投資終極解答，存錢及致富的實證方法",
+      "type": "book",
+      "category": "personal-finance-investing",
+      "author": "尼克．馬朱利",
+      "platform": "www.books.com.tw",
+      "url": "https://www.books.com.tw/products/0010957881?sloc=main",
+      "thumbnail": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/095/78/0010957881.jpg&v=64675035k&w=1146&h=600",
+      "tags": ["投資策略", "財務理財"]
+    },
+    {
+      "title": "漫步華爾街（50週年增訂版）：超越股市漲跌的成功投資策略",
+      "type": "book",
+      "category": "personal-finance-investing",
+      "author": "墨基爾",
+      "platform": "www.books.com.tw",
+      "url": "https://www.books.com.tw/products/0010955845?sloc=main",
+      "thumbnail": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/095/58/0010955845.jpg&v=64465ac4k&w=1146&h=600",
+      "tags": ["投資策略", "財務理財"]
+    }
+  ]
+}
