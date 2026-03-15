@@ -1,0 +1,65 @@
+{
+  "version": "1.0.0",
+  "items": [
+    {
+      "title": "從0到1（經典印簽版）：打開世界運作的未知祕密，在意想不到之處發現價值",
+      "type": "book",
+      "category": "entrepreneurship-side-hustles",
+      "author": "彼得‧提爾",
+      "platform": "www.books.com.tw",
+      "url": "https://www.books.com.tw/products/0011044514?sloc=main",
+      "thumbnail": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/104/45/0011044514.jpg&v=6976436ak&w=1146&h=600",
+      "tags": ["創業", "思維訓練", "策略思維"]
+    },
+    {
+      "title": "精實創業：用小實驗玩出大事業（2017書衣新版）",
+      "type": "book",
+      "category": "entrepreneurship-side-hustles",
+      "author": "艾瑞克‧萊斯",
+      "platform": "www.books.com.tw",
+      "url": "https://www.books.com.tw/products/0010768288?sloc=main",
+      "thumbnail": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/076/82/0010768288.jpg&v=59e9d066k&w=1146&h=600",
+      "tags": ["創業", "策略思維", "工作效率"]
+    },
+    {
+      "title": "一個人的獲利模式：用這張圖，探索你未來要走的路",
+      "type": "book",
+      "category": "entrepreneurship-side-hustles",
+      "author": "Tim Clark",
+      "platform": "www.books.com.tw",
+      "url": "https://www.books.com.tw/products/0010756794?sloc=main",
+      "thumbnail": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/075/67/0010756794.jpg&v=594a4aabk&w=1146&h=600",
+      "tags": ["職涯發展", "創業", "轉職"]
+    },
+    {
+      "title": "把時間買回來：讓你一本驚醒、一本初衷的經管奇書",
+      "type": "book",
+      "category": "entrepreneurship-side-hustles",
+      "author": "丹．馬特爾",
+      "platform": "www.books.com.tw",
+      "url": "https://www.books.com.tw/products/0010999721?loc=P_br_60nq68yhb_D_2aabdc_B_1",
+      "thumbnail": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/099/97/0010999721.jpg&v=66cefc86k&w=1146&h=600",
+      "tags": ["創業", "工作效率", "時間管理"]
+    },
+    {
+      "title": "創業投資聖經：Startup募資、天使投資人、投資契約、談判策略全方位教戰法則【暢銷10週年‧最新增訂版】",
+      "type": "book",
+      "category": "entrepreneurship-side-hustles",
+      "author": "布萊德．費爾德",
+      "platform": "www.books.com.tw",
+      "url": "https://www.books.com.tw/products/0010903659?sloc=main",
+      "thumbnail": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/090/36/0010903659.jpg&v=61431cc3k&w=1146&h=600",
+      "tags": ["創業", "談判", "投資策略"]
+    },
+    {
+      "title": "師父的最後修練：創業者如何預見圓滿終局",
+      "type": "book",
+      "category": "entrepreneurship-side-hustles",
+      "author": "鮑．柏林罕",
+      "platform": "www.books.com.tw",
+      "url": "https://www.books.com.tw/products/0010931029?sloc=main",
+      "thumbnail": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/093/10/0010931029.jpg&v=62d687b2k&w=1146&h=600",
+      "tags": ["創業", "領導管理", "思維訓練"]
+    }
+  ]
+}
