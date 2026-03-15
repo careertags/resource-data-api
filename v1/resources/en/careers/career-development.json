@@ -1,0 +1,105 @@
+{
+  "version": "1.0.0",
+  "items": [
+    {
+      "title": "Start with why -- how great leaders inspire action | Simon Sinek | TEDxPugetSound",
+      "type": "video",
+      "category": "career-development",
+      "author": "TEDx Talks",
+      "platform": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=u4ZoJKF_VuA",
+      "thumbnail": "https://i.ytimg.com/vi/u4ZoJKF_VuA/maxresdefault.jpg",
+      "tags": []
+    },
+    {
+      "title": "How to find and do work you love | Scott Dinsmore | TEDxGoldenGatePark (2D)",
+      "type": "video",
+      "category": "career-development",
+      "author": "TEDx Talks",
+      "platform": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=jpe-LKn-4gM",
+      "thumbnail": "https://i.ytimg.com/vi/jpe-LKn-4gM/maxresdefault.jpg",
+      "tags": ["UI/UX 設計"]
+    },
+    {
+      "title": "Why Some of Us Don’t Have One True Calling | Emilie Wapnick | TED",
+      "type": "video",
+      "category": "career-development",
+      "author": "TED",
+      "platform": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=4sZdcB6bjI8",
+      "thumbnail": "https://i.ytimg.com/vi/4sZdcB6bjI8/maxresdefault.jpg",
+      "tags": []
+    },
+    {
+      "title": "Grit: The Power of Passion and Perseverance | Angela Lee Duckworth | TED",
+      "type": "video",
+      "category": "career-development",
+      "author": "TED",
+      "platform": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=H14bBuluwB8",
+      "thumbnail": "https://i.ytimg.com/vi/H14bBuluwB8/maxresdefault.jpg",
+      "tags": []
+    },
+    {
+      "title": "The happy secret to better work | Shawn Achor",
+      "type": "video",
+      "category": "career-development",
+      "author": "TED",
+      "platform": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=fLJsdqxnZb0",
+      "thumbnail": "https://i.ytimg.com/vi/fLJsdqxnZb0/maxresdefault.jpg",
+      "tags": ["AI 應用"]
+    },
+    {
+      "title": "Follow Your Passion Is Terrible Advice. Here's Why... | Cal Newport",
+      "type": "video",
+      "category": "career-development",
+      "author": "Cal Newport",
+      "platform": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=xMQxK4vusAE",
+      "thumbnail": "https://i.ytimg.com/vi/xMQxK4vusAE/maxresdefault.jpg",
+      "tags": []
+    },
+    {
+      "title": "5 steps to designing the life you want  | Bill Burnett | TEDxStanford",
+      "type": "video",
+      "category": "career-development",
+      "author": "TEDx Talks",
+      "platform": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=SemHh0n19LA",
+      "thumbnail": "https://i.ytimg.com/vi/SemHh0n19LA/maxresdefault.jpg",
+      "tags": []
+    },
+    {
+      "title": "Why you will fail to have a great career | Larry Smith | TEDxUW",
+      "type": "video",
+      "category": "career-development",
+      "author": "TEDx Talks",
+      "platform": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=iKHTawgyKWQ",
+      "thumbnail": "https://i.ytimg.com/vi/iKHTawgyKWQ/maxresdefault.jpg",
+      "tags": ["AI 應用"]
+    },
+    {
+      "title": "How Falling Behind Can Get You Ahead | David Epstein | TEDxManchester",
+      "type": "video",
+      "category": "career-development",
+      "author": "TEDx Talks",
+      "platform": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=BQ2_BwqcFsc",
+      "thumbnail": "https://i.ytimg.com/vi/BQ2_BwqcFsc/maxresdefault.jpg",
+      "tags": []
+    },
+    {
+      "title": "The surprising habits of original thinkers | Adam Grant | TED",
+      "type": "video",
+      "category": "career-development",
+      "author": "TED",
+      "platform": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=fxbCHn6gE3U",
+      "thumbnail": "https://i.ytimg.com/vi/fxbCHn6gE3U/maxresdefault.jpg",
+      "tags": []
+    }
+  ]
+}
