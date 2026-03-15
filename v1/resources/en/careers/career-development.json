@@ -9,7 +9,7 @@
       "platform": "www.youtube.com",
       "url": "https://www.youtube.com/watch?v=u4ZoJKF_VuA",
       "thumbnail": "https://i.ytimg.com/vi/u4ZoJKF_VuA/maxresdefault.jpg",
-      "tags": []
+      "tags": ["Leadership", "Career Development"]
     },
     {
       "title": "How to find and do work you love | Scott Dinsmore | TEDxGoldenGatePark (2D)",
@@ -19,7 +19,7 @@
       "platform": "www.youtube.com",
       "url": "https://www.youtube.com/watch?v=jpe-LKn-4gM",
       "thumbnail": "https://i.ytimg.com/vi/jpe-LKn-4gM/maxresdefault.jpg",
-      "tags": ["UI/UX 設計"]
+      "tags": ["Career Development", "Personal Growth"]
     },
     {
       "title": "Why Some of Us Don’t Have One True Calling | Emilie Wapnick | TED",
@@ -29,7 +29,7 @@
       "platform": "www.youtube.com",
       "url": "https://www.youtube.com/watch?v=4sZdcB6bjI8",
       "thumbnail": "https://i.ytimg.com/vi/4sZdcB6bjI8/maxresdefault.jpg",
-      "tags": []
+      "tags": ["Career Development", "Personal Growth"]
     },
     {
       "title": "Grit: The Power of Passion and Perseverance | Angela Lee Duckworth | TED",
@@ -39,7 +39,7 @@
       "platform": "www.youtube.com",
       "url": "https://www.youtube.com/watch?v=H14bBuluwB8",
       "thumbnail": "https://i.ytimg.com/vi/H14bBuluwB8/maxresdefault.jpg",
-      "tags": []
+      "tags": ["Deliberate Practice", "Psychology"]
     },
     {
       "title": "The happy secret to better work | Shawn Achor",
@@ -49,7 +49,7 @@
       "platform": "www.youtube.com",
       "url": "https://www.youtube.com/watch?v=fLJsdqxnZb0",
       "thumbnail": "https://i.ytimg.com/vi/fLJsdqxnZb0/maxresdefault.jpg",
-      "tags": ["AI 應用"]
+      "tags": ["Productivity", "Psychology"]
     },
     {
       "title": "Follow Your Passion Is Terrible Advice. Here's Why... | Cal Newport",
@@ -59,7 +59,7 @@
       "platform": "www.youtube.com",
       "url": "https://www.youtube.com/watch?v=xMQxK4vusAE",
       "thumbnail": "https://i.ytimg.com/vi/xMQxK4vusAE/maxresdefault.jpg",
-      "tags": []
+      "tags": ["Career Development", "Critical Thinking"]
     },
     {
       "title": "5 steps to designing the life you want  | Bill Burnett | TEDxStanford",
@@ -69,7 +69,7 @@
       "platform": "www.youtube.com",
       "url": "https://www.youtube.com/watch?v=SemHh0n19LA",
       "thumbnail": "https://i.ytimg.com/vi/SemHh0n19LA/maxresdefault.jpg",
-      "tags": []
+      "tags": ["Career Development", "Problem Solving"]
     },
     {
       "title": "Why you will fail to have a great career | Larry Smith | TEDxUW",
@@ -79,7 +79,7 @@
       "platform": "www.youtube.com",
       "url": "https://www.youtube.com/watch?v=iKHTawgyKWQ",
       "thumbnail": "https://i.ytimg.com/vi/iKHTawgyKWQ/maxresdefault.jpg",
-      "tags": ["AI 應用"]
+      "tags": ["Career Development"]
     },
     {
       "title": "How Falling Behind Can Get You Ahead | David Epstein | TEDxManchester",
@@ -89,7 +89,7 @@
       "platform": "www.youtube.com",
       "url": "https://www.youtube.com/watch?v=BQ2_BwqcFsc",
       "thumbnail": "https://i.ytimg.com/vi/BQ2_BwqcFsc/maxresdefault.jpg",
-      "tags": []
+      "tags": ["Learning Methods", "Deliberate Practice"]
     },
     {
       "title": "The surprising habits of original thinkers | Adam Grant | TED",
@@ -99,7 +99,7 @@
       "platform": "www.youtube.com",
       "url": "https://www.youtube.com/watch?v=fxbCHn6gE3U",
       "thumbnail": "https://i.ytimg.com/vi/fxbCHn6gE3U/maxresdefault.jpg",
-      "tags": []
+      "tags": ["Critical Thinking", "Personal Growth"]
     }
   ]
 }
