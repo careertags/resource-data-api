@@ -1,0 +1,65 @@
+{
+  "version": "1.0.0",
+  "items": [
+    {
+      "title": "原子習慣：細微改變帶來巨大成就的實證法則",
+      "type": "book",
+      "category": "personal-growth",
+      "author": "詹姆斯‧克利爾",
+      "platform": "www.books.com.tw",
+      "url": "https://www.books.com.tw/products/0010822522?sloc=main",
+      "thumbnail": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/082/25/0010822522.jpg&v=5cda990ck&w=1146&h=600",
+      "tags": ["習慣養成", "個人成長"]
+    },
+    {
+      "title": "心態致勝：全新成功心理學",
+      "type": "book",
+      "category": "personal-growth",
+      "author": "卡蘿．杜維克",
+      "platform": "www.books.com.tw",
+      "url": "https://www.books.com.tw/products/0010968342?sloc=main",
+      "thumbnail": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/096/83/0010968342.jpg&v=653b918bk&w=1146&h=600",
+      "tags": ["人際關係", "心理學", "個人成長"]
+    },
+    {
+      "title": "被討厭的勇氣：自我啟發之父「阿德勒」的教導",
+      "type": "book",
+      "category": "personal-growth",
+      "author": "岸見一郎",
+      "platform": "www.books.com.tw",
+      "url": "https://www.books.com.tw/products/0010653153?sloc=main",
+      "thumbnail": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/065/31/0010653153.jpg&v=543baa1ak&w=1146&h=600",
+      "tags": ["心理學"]
+    },
+    {
+      "title": "我可能錯了：森林智者的最後一堂人生課",
+      "type": "book",
+      "category": "personal-growth",
+      "author": "比約恩．納提科．林德布勞",
+      "platform": "www.books.com.tw",
+      "url": "https://www.books.com.tw/products/0010947051?sloc=main",
+      "thumbnail": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/094/70/0010947051.jpg&v=63b6b4c6k&w=1146&h=600",
+      "tags": []
+    },
+    {
+      "title": "關鍵思考力：《致富心態》作者摩根．豪瑟高度盛讚！亞馬遜突破12,000則書評——獨立出版界的傳奇之書",
+      "type": "book",
+      "category": "personal-growth",
+      "author": "達瑞斯．佛魯",
+      "platform": "www.books.com.tw",
+      "url": "https://www.books.com.tw/products/0011029295?sloc=main",
+      "thumbnail": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/102/92/0011029295.jpg&v=68948e62k&w=1146&h=600",
+      "tags": ["思維訓練"]
+    },
+    {
+      "title": "終於成為自己：覺察內在原力的完整練習，告別從眾，找到你的第一原理，成就潛藏的真心渴望",
+      "type": "book",
+      "category": "personal-growth",
+      "author": "歐贊‧瓦羅",
+      "platform": "www.books.com.tw",
+      "url": "https://www.books.com.tw/products/0011015110?sloc=main",
+      "thumbnail": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/101/51/0011015110.jpg&v=67b5b2cdk&w=1146&h=600",
+      "tags": []
+    }
+  ]
+}

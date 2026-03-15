@@ -1,0 +1,65 @@
+{
+  "version": "1.0.0",
+  "items": [
+    {
+      "title": "台灣AI大未來：解析最新的AI趨勢、台灣情勢、企業布局與個人發展",
+      "type": "book",
+      "category": "ai-digital-literacy",
+      "author": "簡立峰（Chien Lee-feng）",
+      "platform": "www.books.com.tw",
+      "url": "https://www.books.com.tw/products/0011030708?loc=P_0020_004",
+      "thumbnail": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/103/07/0011030708.jpg&v=68aeec3bk&w=1146&h=600",
+      "tags": ["AI 應用", "職涯發展", "思維訓練"]
+    },
+    {
+      "title": "職場人的生成式AI工作法：《哈佛商業評論》提升生產力、團隊創意和決策品質的35堂課",
+      "type": "book",
+      "category": "ai-digital-literacy",
+      "author": "艾麗莎．法瑞",
+      "platform": "www.books.com.tw",
+      "url": "https://www.books.com.tw/products/0011026682?loc=P_br_r0vq68ygz_D_2aabd0_B_1",
+      "thumbnail": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/102/66/0011026682.jpg&v=687e1702k&w=1146&h=600",
+      "tags": ["AI 應用", "工作效率", "職涯發展"]
+    },
+    {
+      "title": "人工智慧來了",
+      "type": "book",
+      "category": "ai-digital-literacy",
+      "author": "李開復",
+      "platform": "www.books.com.tw",
+      "url": "https://www.books.com.tw/products/0010750425?sloc=main",
+      "thumbnail": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/075/04/0010750425.jpg&v=58f49973k&w=1146&h=600",
+      "tags": ["AI 應用", "思維訓練", "職涯發展"]
+    },
+    {
+      "title": "AI 2041：預見10個未來新世界",
+      "type": "book",
+      "category": "ai-digital-literacy",
+      "author": "李開復",
+      "platform": "www.books.com.tw",
+      "url": "https://www.books.com.tw/products/0010961699?loc=P_br_60nq68yhb_D_2aabdc_B_1",
+      "thumbnail": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/096/16/0010961699.jpg&v=64a2a44bk&w=1146&h=600",
+      "tags": ["AI 應用", "思維訓練", "職涯發展"]
+    },
+    {
+      "title": "AI世界的底層邏輯與生存法則",
+      "type": "book",
+      "category": "ai-digital-literacy",
+      "author": "程世嘉",
+      "platform": "www.books.com.tw",
+      "url": "https://www.books.com.tw/products/0010987512?loc=P_br_r0vq68ygz_D_2aabd0_B_1",
+      "thumbnail": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/098/75/0010987512.jpg&v=6628dfa6k&w=1146&h=600",
+      "tags": ["AI 應用", "思維訓練", "職涯發展"]
+    },
+    {
+      "title": "最強！Google AI 工作術：以 Gemini 3 為核心，串聯 NotebookLM 與滿滿 AI 工具, 搞定資料分析、簡報製作、 教育訓練等日常工作",
+      "type": "book",
+      "category": "ai-digital-literacy",
+      "author": "蔡宜坦",
+      "platform": "www.books.com.tw",
+      "url": "https://www.books.com.tw/products/0011044612?sloc=main",
+      "thumbnail": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/104/46/0011044612.jpg&v=69772300k&w=1146&h=600",
+      "tags": ["AI 應用", "工作效率", "簡報技巧"]
+    }
+  ]
+}
