@@ -1,0 +1,105 @@
+{
+  "version": "1.0.0",
+  "items": [
+    {
+      "title": "你可以不遷就: 你的求職降落傘是什麼顏色? 教你探索個人職涯、化劣勢為優勢的不敗求職指南",
+      "type": "book",
+      "category": "career-development",
+      "author": "理查．尼爾森．波利斯",
+      "platform": "www.eslite.com",
+      "url": "https://www.eslite.com/product/1001116172645117",
+      "thumbnail": "https://s2.eslite.com/unsafe/fit-in/x900/s.eslite.com/upload/product/o/2681533243003/ec1402637.jpg",
+      "tags": ["職涯發展", "求職", "履歷撰寫"]
+    },
+    {
+      "title": "刻意練習：原創者全面解析，比天賦更關鍵的學習法",
+      "type": "book",
+      "category": "career-development",
+      "author": "安德斯‧艾瑞克森",
+      "platform": "www.books.com.tw",
+      "url": "https://www.books.com.tw/products/0010752714?sloc=main",
+      "thumbnail": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/075/27/0010752714.jpg&v=59143d4bk&w=1146&h=600",
+      "tags": ["刻意練習", "學習方法"]
+    },
+    {
+      "title": "先問，為什麼？【15週年紀念新訂版】：顛覆慣性思考的黃金圈理論，啟動你的感召領導力",
+      "type": "book",
+      "category": "career-development",
+      "author": "賽門・西奈克",
+      "platform": "www.books.com.tw",
+      "url": "https://www.books.com.tw/products/0011046507?sloc=main",
+      "thumbnail": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/104/65/0011046507.jpg&v=699e6e71k&w=1146&h=600",
+      "tags": ["領導管理", "簡報技巧", "思維訓練"]
+    },
+    {
+      "title": "優秀到不能被忽視",
+      "type": "book",
+      "category": "career-development",
+      "author": "（美）卡爾·紐波特",
+      "platform": "www.books.com.tw",
+      "url": "https://www.books.com.tw/products/CN11441158?sloc=main",
+      "thumbnail": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/CN1/144/11/CN11441158.jpg&v=5a565e12k&w=1146&h=600",
+      "tags": ["職涯發展", "思維訓練"]
+    },
+    {
+      "title": "Deep Work深度工作力：淺薄時代，個人成功的關鍵能力【暢銷新裝版】",
+      "type": "book",
+      "category": "career-development",
+      "author": "卡爾．紐波特",
+      "platform": "www.books.com.tw",
+      "url": "https://www.books.com.tw/products/0010906940?sloc=main",
+      "thumbnail": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/090/69/0010906940.jpg&v=6171413dk&w=1146&h=600",
+      "tags": ["深度專注", "思維訓練", "數位行銷"]
+    },
+    {
+      "title": "恆毅力：人生成功的究極能力【暢銷新訂版】",
+      "type": "book",
+      "category": "career-development",
+      "author": "安琪拉‧達克沃斯",
+      "platform": "www.books.com.tw",
+      "url": "https://www.books.com.tw/products/0010867931?sloc=main",
+      "thumbnail": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/086/79/0010867931.jpg&v=5f3a5c36k&w=1146&h=600",
+      "tags": []
+    },
+    {
+      "title": "與成功有約：高效能人士的七個習慣（30週年全新增訂版）",
+      "type": "book",
+      "category": "career-development",
+      "author": "史蒂芬‧柯維",
+      "platform": "www.books.com.tw",
+      "url": "https://www.books.com.tw/products/0010874292?sloc=main",
+      "thumbnail": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/087/42/0010874292.jpg&v=5f96a53dk&w=1146&h=600",
+      "tags": ["習慣養成", "工作效率", "成功學"]
+    },
+    {
+      "title": "異數：超凡與平凡的界線在哪裡？ （暢銷慶功版）",
+      "type": "book",
+      "category": "career-development",
+      "author": "麥爾坎．葛拉威爾",
+      "platform": "www.books.com.tw",
+      "url": "https://www.books.com.tw/products/0010865776?sloc=main",
+      "thumbnail": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/086/57/0010865776.jpg&v=5f1966b9k&w=1146&h=600",
+      "tags": ["心理學"]
+    },
+    {
+      "title": "原則：生活和工作",
+      "type": "book",
+      "category": "career-development",
+      "author": "瑞．達利歐",
+      "platform": "www.books.com.tw",
+      "url": "https://www.books.com.tw/products/0010782941?sloc=main",
+      "thumbnail": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/078/29/0010782941.jpg&v=5abe2dcdk&w=1146&h=600",
+      "tags": ["領導管理", "創業", "財務理財"]
+    },
+    {
+      "title": "第二曲線：社會再造的新思維（經典珍藏版）",
+      "type": "book",
+      "category": "career-development",
+      "author": "查爾斯．韓第",
+      "platform": "www.books.com.tw",
+      "url": "https://www.books.com.tw/products/0010862673?sloc=main",
+      "thumbnail": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/086/26/0010862673.jpg&v=5ef1d9aek&w=1146&h=600",
+      "tags": ["思維訓練"]
+    }
+  ]
+}
