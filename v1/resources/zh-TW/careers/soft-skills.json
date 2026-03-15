@@ -1,0 +1,65 @@
+{
+  "version": "1.0.0",
+  "items": [
+    {
+      "title": "高難度溝通：麻省理工最熱門的溝通課，在對立的世界裡，如何善用溝通打破僵局",
+      "type": "book",
+      "category": "soft-skills",
+      "author": "傑森．傑伊",
+      "platform": "www.books.com.tw",
+      "url": "https://www.books.com.tw/products/0010832118?",
+      "thumbnail": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/083/21/0010832118.jpg&v=5d5bcbcak&w=1146&h=600",
+      "tags": ["溝通表達"]
+    },
+    {
+      "title": "給予：華頓商學院最具影響力教授，創造人際紅利的處世策略【亞當．格蘭特「最有價值的四堂課」】 (電子書)",
+      "type": "book",
+      "category": "soft-skills",
+      "author": "亞當．格蘭特",
+      "platform": "www.books.com.tw",
+      "url": "https://www.books.com.tw/products/E050276474",
+      "thumbnail": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/E05/027/64/E050276474.jpg&v=6889d217k&w=1146&h=600",
+      "tags": ["人際關係", "思維訓練"]
+    },
+    {
+      "title": "情緒勒索：那些在伴侶、親子、職場間，最讓人窒息的相處",
+      "type": "book",
+      "category": "soft-skills",
+      "author": "周慕姿",
+      "platform": "www.books.com.tw",
+      "url": "https://www.books.com.tw/products/0010742371?sloc=main",
+      "thumbnail": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/074/23/0010742371.jpg&v=649d6b3ek&w=1146&h=600",
+      "tags": ["職涯發展", "人際關係", "心理學"]
+    },
+    {
+      "title": "麥肯錫寫作技術與邏輯思考：為什麼他們的文字最有說服力？看問題永遠能擊中要害？",
+      "type": "book",
+      "category": "soft-skills",
+      "author": "高杉尚孝",
+      "platform": "www.books.com.tw",
+      "url": "https://www.books.com.tw/products/0010799231?sloc=main",
+      "thumbnail": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/079/92/0010799231.jpg&v=5b978b1ck&w=1146&h=600",
+      "tags": ["領導管理", "思維訓練"]
+    },
+    {
+      "title": "精準提問(增修版，附贈『問題發想表』好思路白板)：找到問題解方，培養創意思維、發揮專業影響力的16個提問心法",
+      "type": "book",
+      "category": "soft-skills",
+      "author": "洪震宇",
+      "platform": "www.books.com.tw",
+      "url": "https://www.books.com.tw/products/0011035957?sloc=main",
+      "thumbnail": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/103/59/0011035957.jpg&v=68f8c047k&w=1146&h=600",
+      "tags": ["溝通表達", "人際關係", "思維訓練"]
+    },
+    {
+      "title": "杜拉克談高效能的5個習慣（暢銷新裝版）",
+      "type": "book",
+      "category": "soft-skills",
+      "author": "彼得．杜拉克",
+      "platform": "www.books.com.tw",
+      "url": "https://www.books.com.tw/products/0011011026?sloc=main",
+      "thumbnail": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/101/10/0011011026.jpg&v=677bb11ak&w=1146&h=600",
+      "tags": ["習慣養成", "工作效率"]
+    }
+  ]
+}
