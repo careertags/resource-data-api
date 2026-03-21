@@ -1,4 +1,65 @@
 {
-  "version": "1.0.0",
-  "items": []
+  "version": "1.0.1",
+  "items": [
+    {
+      "title": "Andrew Ng: Building Faster with AI",
+      "type": "video",
+      "category": "ai-digital-literacy",
+      "author": "Y Combinator",
+      "platform": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=RNJCfif1dPY",
+      "thumbnail": "https://i.ytimg.com/vi/RNJCfif1dPY/maxresdefault.jpg",
+      "tags": ["Entrepreneurship", "AI & Technology"]
+    },
+    {
+      "title": "Machine Learning Specialization by DeepLearning.AI",
+      "type": "video",
+      "category": "ai-digital-literacy",
+      "author": "DeepLearningAI",
+      "platform": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=SZz1qC-X1uA",
+      "thumbnail": "https://i.ytimg.com/vi/SZz1qC-X1uA/hqdefault.jpg",
+      "tags": ["AI & Technology"]
+    },
+    {
+      "title": "Anthropic CEO warns that without guardrails, AI could be on dangerous path",
+      "type": "video",
+      "category": "ai-digital-literacy",
+      "author": "60 Minutes",
+      "platform": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=aAPpQC-3EyE",
+      "thumbnail": "https://i.ytimg.com/vi/aAPpQC-3EyE/hqdefault.jpg",
+      "tags": ["AI & Technology", "AI Ethics & Safety"]
+    },
+    {
+      "title": "Anthropic’s CEO explains why he took on the Pentagon",
+      "type": "video",
+      "category": "ai-digital-literacy",
+      "author": "The Economist",
+      "platform": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=0Q5J8UB3mXE",
+      "thumbnail": "https://i.ytimg.com/vi/0Q5J8UB3mXE/hqdefault.jpg",
+      "tags": ["AI & Technology", "AI Ethics & Safety"]
+    },
+    {
+      "title": "MASTER Prompt Engineering in 50 min",
+      "type": "video",
+      "category": "ai-digital-literacy",
+      "author": "Ben AI",
+      "platform": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=hqkAH_65-vY",
+      "thumbnail": "https://i.ytimg.com/vi/hqkAH_65-vY/hqdefault.jpg",
+      "tags": ["AI & Technology"]
+    },
+    {
+      "title": "AI Is Dangerous, but Not for the Reasons You Think | Sasha Luccioni | TED",
+      "type": "video",
+      "category": "ai-digital-literacy",
+      "author": "TED",
+      "platform": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=eXdVDhOGqoE",
+      "thumbnail": "https://i.ytimg.com/vi/eXdVDhOGqoE/hqdefault.jpg",
+      "tags": ["AI & Technology", "AI Ethics & Safety"]
+    }
+  ]
 }
