@@ -1,4 +1,65 @@
 {
-  "version": "1.0.0",
-  "items": []
+  "version": "1.0.1",
+  "items": [
+    {
+      "title": "How to Speak So That People Want to Listen | Julian Treasure | TED",
+      "type": "video",
+      "category": "soft-skills",
+      "author": "TED",
+      "platform": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=eIho2S0ZahI",
+      "thumbnail": "https://i.ytimg.com/vi/eIho2S0ZahI/maxresdefault.jpg",
+      "tags": ["Communication"]
+    },
+    {
+      "title": "Celeste Headlee: 10 ways to have a better conversation | TED",
+      "type": "video",
+      "category": "soft-skills",
+      "author": "TED",
+      "platform": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=R1vskiVDwl4",
+      "thumbnail": "https://i.ytimg.com/vi/R1vskiVDwl4/maxresdefault.jpg",
+      "tags": ["Communication"]
+    },
+    {
+      "title": "Your Body Language May Shape Who You Are | Amy Cuddy | TED",
+      "type": "video",
+      "category": "soft-skills",
+      "author": "TED",
+      "platform": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=Ks-_Mh1QhMc",
+      "thumbnail": "https://i.ytimg.com/vi/Ks-_Mh1QhMc/maxresdefault.jpg",
+      "tags": ["Communication"]
+    },
+    {
+      "title": "The Power of Vulnerability | Brené Brown | TED",
+      "type": "video",
+      "category": "soft-skills",
+      "author": "TED",
+      "platform": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=iCvmsMzlF7o",
+      "thumbnail": "https://i.ytimg.com/vi/iCvmsMzlF7o/maxresdefault.jpg",
+      "tags": ["Psychology"]
+    },
+    {
+      "title": "Adam Grant - Give and Take",
+      "type": "video",
+      "category": "soft-skills",
+      "author": "The Welcome Conference",
+      "platform": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=ZtC49GnTqAI",
+      "thumbnail": "https://i.ytimg.com/vi/ZtC49GnTqAI/maxresdefault.jpg",
+      "tags": ["Interpersonal Skills"]
+    },
+    {
+      "title": "The BEST Leaders Do THIS",
+      "type": "video",
+      "category": "soft-skills",
+      "author": "Simon Sinek",
+      "platform": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=cHPDhFKbYak",
+      "thumbnail": "https://i.ytimg.com/vi/cHPDhFKbYak/maxresdefault.jpg",
+      "tags": ["Leadership"]
+    }
+  ]
 }
