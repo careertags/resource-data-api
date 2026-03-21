@@ -1,4 +1,65 @@
 {
-  "version": "1.0.0",
-  "items": []
+  "version": "1.0.2",
+  "items": [
+    {
+      "title": "Lecture 1 - How to Start a Startup (Sam Altman, Dustin Moskovitz)",
+      "type": "video",
+      "category": "entrepreneurship-side-hustles",
+      "author": "YC Root Access",
+      "platform": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=CBYhVcO4WgI",
+      "thumbnail": "https://i.ytimg.com/vi/CBYhVcO4WgI/maxresdefault.jpg",
+      "tags": ["Entrepreneurship"]
+    },
+    {
+      "title": "Competition is for Losers with Peter Thiel (How to Start a Startup 2014: 5)",
+      "type": "video",
+      "category": "entrepreneurship-side-hustles",
+      "author": "Y Combinator",
+      "platform": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=3Fx5Q8xGU8k",
+      "thumbnail": "https://i.ytimg.com/vi/3Fx5Q8xGU8k/maxresdefault.jpg",
+      "tags": ["Strategic Thinking", "Entrepreneurship"]
+    },
+    {
+      "title": "Reid Hoffman: The Secrets of Blitzscaling",
+      "type": "video",
+      "category": "entrepreneurship-side-hustles",
+      "author": "Commonwealth Club World Affairs of California",
+      "platform": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=J-4J9gP1pIo",
+      "thumbnail": "https://i.ytimg.com/vi/J-4J9gP1pIo/maxresdefault.jpg",
+      "tags": ["Entrepreneurship", "Investment Strategy"]
+    },
+    {
+      "title": "Guy Kawasaki - The Art of the Start",
+      "type": "video",
+      "category": "entrepreneurship-side-hustles",
+      "author": "Wired for Wonder",
+      "platform": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=U8EVD739BxQ",
+      "thumbnail": "https://i.ytimg.com/vi/U8EVD739BxQ/maxresdefault.jpg",
+      "tags": ["Entrepreneurship"]
+    },
+    {
+      "title": "How to Get Rich",
+      "type": "video",
+      "category": "entrepreneurship-side-hustles",
+      "author": "Naval",
+      "platform": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=1-TZqOsVCNM",
+      "thumbnail": "https://i.ytimg.com/vi/1-TZqOsVCNM/maxresdefault.jpg",
+      "tags": ["Investment Strategy"]
+    },
+    {
+      "title": "Side Hustle = Full Time? 30 Min Of Tactical Social Media Advice | GaryVee Backseat Q&A Highlights",
+      "type": "video",
+      "category": "entrepreneurship-side-hustles",
+      "author": "GaryVee",
+      "platform": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=sucTHezI2Jw",
+      "thumbnail": "https://i.ytimg.com/vi/sucTHezI2Jw/maxresdefault.jpg",
+      "tags": ["Entrepreneurship"]
+    }
+  ]
 }

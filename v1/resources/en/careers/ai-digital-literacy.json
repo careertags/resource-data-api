@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "items": [
     {
       "title": "Andrew Ng: Building Faster with AI",
@@ -18,7 +18,7 @@
       "author": "DeepLearningAI",
       "platform": "www.youtube.com",
       "url": "https://www.youtube.com/watch?v=SZz1qC-X1uA",
-      "thumbnail": "https://i.ytimg.com/vi/SZz1qC-X1uA/hqdefault.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/SZz1qC-X1uA/maxresdefault.jpg",
       "tags": ["AI & Technology"]
     },
     {
@@ -28,7 +28,7 @@
       "author": "60 Minutes",
       "platform": "www.youtube.com",
       "url": "https://www.youtube.com/watch?v=aAPpQC-3EyE",
-      "thumbnail": "https://i.ytimg.com/vi/aAPpQC-3EyE/hqdefault.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/aAPpQC-3EyE/maxresdefault.jpg",
       "tags": ["AI & Technology", "AI Ethics & Safety"]
     },
     {
@@ -38,7 +38,7 @@
       "author": "The Economist",
       "platform": "www.youtube.com",
       "url": "https://www.youtube.com/watch?v=0Q5J8UB3mXE",
-      "thumbnail": "https://i.ytimg.com/vi/0Q5J8UB3mXE/hqdefault.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/0Q5J8UB3mXE/maxresdefault.jpg",
       "tags": ["AI & Technology", "AI Ethics & Safety"]
     },
     {
@@ -48,7 +48,7 @@
       "author": "Ben AI",
       "platform": "www.youtube.com",
       "url": "https://www.youtube.com/watch?v=hqkAH_65-vY",
-      "thumbnail": "https://i.ytimg.com/vi/hqkAH_65-vY/hqdefault.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/hqkAH_65-vY/maxresdefault.jpg",
       "tags": ["AI & Technology"]
     },
     {
@@ -58,7 +58,7 @@
       "author": "TED",
       "platform": "www.youtube.com",
       "url": "https://www.youtube.com/watch?v=eXdVDhOGqoE",
-      "thumbnail": "https://i.ytimg.com/vi/eXdVDhOGqoE/hqdefault.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/eXdVDhOGqoE/maxresdefault.jpg",
       "tags": ["AI & Technology", "AI Ethics & Safety"]
     }
   ]
