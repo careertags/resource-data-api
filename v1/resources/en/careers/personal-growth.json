@@ -1,4 +1,65 @@
 {
-  "version": "1.0.0",
-  "items": []
+  "version": "1.0.1",
+  "items": [
+    {
+      "title": "The power of believing that you can improve | Carol Dweck | TED",
+      "type": "video",
+      "category": "personal-growth",
+      "author": "TED",
+      "platform": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=_X0mgOOSpLU",
+      "thumbnail": "https://i.ytimg.com/vi/_X0mgOOSpLU/maxresdefault.jpg",
+      "tags": ["Growth Mindset"]
+    },
+    {
+      "title": "The Silent Cost of Bad Habits - James Clear",
+      "type": "video",
+      "category": "personal-growth",
+      "author": "The Knowledge Project Podcast",
+      "platform": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=zChiVdbSp5M",
+      "thumbnail": "https://i.ytimg.com/vi/zChiVdbSp5M/maxresdefault.jpg",
+      "tags": ["Habit Building", "Success Principles"]
+    },
+    {
+      "title": "Tony Robbins | Why we do what we do (Key Points Version)",
+      "type": "video",
+      "category": "personal-growth",
+      "author": "QuickTalks",
+      "platform": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=JrL4XTIFwMQ",
+      "thumbnail": "https://i.ytimg.com/vi/JrL4XTIFwMQ/maxresdefault.jpg",
+      "tags": ["Personal Growth"]
+    },
+    {
+      "title": "Mel Robbins 5 Second Rule: How to Change Your Life",
+      "type": "video",
+      "category": "personal-growth",
+      "author": "SUCCESS Magazine",
+      "platform": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=PWE4haP88Gw",
+      "thumbnail": "https://i.ytimg.com/vi/PWE4haP88Gw/maxresdefault.jpg",
+      "tags": ["Personal Growth"]
+    },
+    {
+      "title": "How to Stop Overthinking Everything?",
+      "type": "video",
+      "category": "personal-growth",
+      "author": "GaryVee Video Experience",
+      "platform": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=4oOehcQjIrs",
+      "thumbnail": "https://i.ytimg.com/vi/4oOehcQjIrs/maxresdefault.jpg",
+      "tags": ["Mindfulness"]
+    },
+    {
+      "title": "𝙊𝙣𝙚 𝙃𝙤𝙪𝙧 𝙖 𝘿𝙖𝙮 𝘾𝙖𝙣 𝘾𝙝𝙖𝙣𝙜𝙚 𝙔𝙤𝙪𝙧 𝙇𝙞𝙛𝙚 - Jim Rohn Motivation",
+      "type": "video",
+      "category": "personal-growth",
+      "author": "Jim Rohn Motivation™",
+      "platform": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=1aml0NLWNsY",
+      "thumbnail": "https://i.ytimg.com/vi/1aml0NLWNsY/maxresdefault.jpg",
+      "tags": ["Personal Growth"]
+    }
+  ]
 }
