@@ -1,4 +1,65 @@
 {
-  "version": "1.0.0",
-  "items": []
+  "version": "1.0.1",
+  "items": [
+    {
+      "title": "How The Economic Machine Works by Ray Dalio",
+      "type": "video",
+      "category": "personal-finance-investing",
+      "author": "Principles by Ray Dalio",
+      "platform": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=PHe0bXAIuk0",
+      "thumbnail": "https://i.ytimg.com/vi/PHe0bXAIuk0/hqdefault.jpg",
+      "tags": ["Investment Strategy"]
+    },
+    {
+      "title": "Warren Buffett's Advice For Investors In 2026",
+      "type": "video",
+      "category": "personal-finance-investing",
+      "author": "Cooper Academy",
+      "platform": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=BGUWvCV7IPI",
+      "thumbnail": "https://i.ytimg.com/vi/BGUWvCV7IPI/hqdefault.jpg",
+      "tags": ["Investment Strategy"]
+    },
+    {
+      "title": "Understand & Apply the Psychology of Money to Gain Greater Happiness | Morgan Housel",
+      "type": "video",
+      "category": "personal-finance-investing",
+      "author": "Andrew Huberman",
+      "platform": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=z5W74QC3v2I",
+      "thumbnail": "https://i.ytimg.com/vi/z5W74QC3v2I/hqdefault.jpg",
+      "tags": ["Psychology", "Personal Finance", "Investment Strategy"]
+    },
+    {
+      "title": "JL Collins, The Simple Path to Wealth",
+      "type": "video",
+      "category": "personal-finance-investing",
+      "author": "Afford Anything Podcast",
+      "platform": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=diW0kCb1c5o",
+      "thumbnail": "https://i.ytimg.com/vi/diW0kCb1c5o/hqdefault.jpg",
+      "tags": ["Investment Strategy"]
+    },
+    {
+      "title": "From $0 To Millionaire | Investing For Beginners",
+      "type": "video",
+      "category": "personal-finance-investing",
+      "author": "Graham Stephan",
+      "platform": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=2KgH0UpiRiw",
+      "thumbnail": "https://i.ytimg.com/vi/2KgH0UpiRiw/hqdefault.jpg",
+      "tags": ["Investment Strategy"]
+    },
+    {
+      "title": "The Only Investing Video You’ll Ever Need (Start With $100)",
+      "type": "video",
+      "category": "personal-finance-investing",
+      "author": "Mark Tilbury",
+      "platform": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=Ay4fmZdZqJE",
+      "thumbnail": "https://i.ytimg.com/vi/Ay4fmZdZqJE/hqdefault.jpg",
+      "tags": ["Investment Strategy"]
+    }
+  ]
 }
