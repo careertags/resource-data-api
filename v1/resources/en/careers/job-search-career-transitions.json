@@ -1,4 +1,65 @@
 {
   "version": "1.0.0",
-  "items": []
+  "items": [
+    {
+      "title": "Top Interview Tips: Common Questions, Nonverbal Communication & More | Indeed",
+      "type": "video",
+      "category": "job-search-career-transitions",
+      "author": "Indeed",
+      "platform": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=HG68Ymazo18",
+      "thumbnail": "https://i.ytimg.com/vi/HG68Ymazo18/maxresdefault.jpg",
+      "tags": ["Interview Skills", "Communication"]
+    },
+    {
+      "title": "Answering “Tell Me About Yourself” in an Interview: Step-by-Step Guide",
+      "type": "video",
+      "category": "job-search-career-transitions",
+      "author": "Self Made Millennial",
+      "platform": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=Rpe4WCOFBSM",
+      "thumbnail": "https://i.ytimg.com/vi/Rpe4WCOFBSM/maxresdefault.jpg",
+      "tags": ["Job Search", "Interview Skills"]
+    },
+    {
+      "title": "How to Answer ANY Behavioral Based Interview Question",
+      "type": "video",
+      "category": "job-search-career-transitions",
+      "author": "Self Made Millennial",
+      "platform": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=TEIzybC99Lg",
+      "thumbnail": "https://i.ytimg.com/vi/TEIzybC99Lg/maxresdefault.jpg",
+      "tags": ["Job Search", "Interview Skills"]
+    },
+    {
+      "title": "How to prepare for Google’s non-technical interview questions",
+      "type": "video",
+      "category": "job-search-career-transitions",
+      "author": "Life at Google",
+      "platform": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=TPilhhzHTnU",
+      "thumbnail": "https://i.ytimg.com/vi/TPilhhzHTnU/maxresdefault.jpg",
+      "tags": ["Interview Skills"]
+    },
+    {
+      "title": "Interview Tips & Tricks: The STARS Method | Stanford Career Education",
+      "type": "video",
+      "category": "job-search-career-transitions",
+      "author": "Stanford Career Education (CareerEd)",
+      "platform": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=vNOs6gD8LdI",
+      "thumbnail": "https://i.ytimg.com/vi/vNOs6gD8LdI/maxresdefault.jpg",
+      "tags": ["Career Development", "Interview Skills"]
+    },
+    {
+      "title": "5 Resume Mistakes You MUST Avoid (with real examples)!",
+      "type": "video",
+      "category": "job-search-career-transitions",
+      "author": "Jeff Su",
+      "platform": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=pjqi_M3SPwY",
+      "thumbnail": "https://i.ytimg.com/vi/pjqi_M3SPwY/maxresdefault.jpg",
+      "tags": ["Resume Writing"]
+    }
+  ]
 }
